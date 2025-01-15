@@ -1,6 +1,6 @@
 {
   "homepage": "https://sidd-1337.github.io/EZquizmaker/",
-  "name": "inf2quiz",
+  "name": "EZquizmaker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
