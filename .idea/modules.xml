@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/inf2quiz.iml" filepath="$PROJECT_DIR$/.idea/inf2quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EZquizmaker.iml" filepath="$PROJECT_DIR$/.idea/EZquizmaker.iml" />
     </modules>
   </component>
 </project>
