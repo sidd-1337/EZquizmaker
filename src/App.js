@@ -6,7 +6,7 @@ function App() {
   return (
       <Container maxWidth="md">
         <Typography variant="h4" component="h1" align="center" gutterBottom>
-          Informační systémy 2 - Kvízové otázky
+         Kvízové otázky
         </Typography>
         <Quiz />
       </Container>
